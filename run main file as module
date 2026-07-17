@@ -1,0 +1,2 @@
+python -m scripts.load_postgres
+python -m scripts.run_pipeline
