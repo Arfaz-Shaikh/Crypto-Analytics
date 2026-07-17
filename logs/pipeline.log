@@ -1,0 +1,22 @@
+2026-07-10 20:50:23,394 | ERROR | Database connection failed.
+2026-07-10 20:50:23,394 | WARNING | Missing values found in current_price.
+2026-07-10 20:51:01,977 | ERROR | Database connection failed.
+2026-07-10 20:51:01,978 | WARNING | Missing values found in current_price.
+2026-07-10 20:51:01,978 | INFO | Data loaded successfully!
+2026-07-10 20:53:04,839 | ERROR | Database connection failed.
+2026-07-10 20:53:04,840 | WARNING | Missing values found in current_price.
+2026-07-10 20:53:04,840 | INFO | Data loaded successfully!
+2026-07-10 20:53:04,840 | INFO | Starting extraction...
+2026-07-10 20:53:05,431 | INFO | Loading dimension...
+2026-07-10 20:53:05,459 | INFO | Loading fact...
+2026-07-10 20:53:05,465 | INFO | Pipeline completed successfully!
+2026-07-10 21:08:45,468 | ERROR | Database connection failed.
+2026-07-10 21:08:45,468 | WARNING | Missing values found in current_price.
+2026-07-10 21:08:45,468 | INFO | Data loaded successfully!
+2026-07-10 21:08:46,167 | INFO | Pipeline Started
+2026-07-10 21:08:46,651 | INFO | Pipeline Completed Successfully
+2026-07-16 17:59:25,060 | ERROR | Database connection failed.
+2026-07-16 17:59:25,061 | WARNING | Missing values found in current_price.
+2026-07-16 17:59:25,061 | INFO | Data loaded successfully!
+2026-07-16 17:59:27,303 | INFO | Pipeline Started
+2026-07-16 17:59:28,077 | INFO | Pipeline Completed Successfully
