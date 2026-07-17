@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM crypto.dim_coin;
