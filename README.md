@@ -173,10 +173,21 @@ Stores historical market snapshots.
 ---
 # 📈 Power BI Dashboard
 - Executive Dashboard
-- Market Performance
-- Coin Analysis
-- ETL Monitoring
+<p align="center">
+<img width="1307" height="731" alt="Executive Dasboard" src="https://github.com/user-attachments/assets/ffb8b42e-9091-4379-8044-b50e1cd0a191" />
   
+- Market Performance
+<p align="center">
+<img width="1307" height="735" alt="Market Performance" src="https://github.com/user-attachments/assets/1c9bbeb9-011c-41dd-bf36-bb17e7cd25ae" />
+  
+- Coin Analysis
+<p align="center">
+<img width="1306" height="733" alt="Coin Analysis" src="https://github.com/user-attachments/assets/bf3ff222-268f-4092-a5e8-04e16fbd2ffc" />
+
+- ETL Pipeline Monitoring
+<p align="center">
+<img width="1307" height="732" alt="ETL Pipeline Monitoring" src="https://github.com/user-attachments/assets/e3b29b1b-7df4-4478-bf4b-b52bb641e436" />
+
 ---
 # 🤖 Automation
 ### The project automates:
@@ -265,6 +276,74 @@ Which executes the entire ETL process from extraction through reporting.
 - Indexes
 - Constraints
 - Foreign Keys
+
+---
+# 🐍 Python Skills Demonstrated
+- REST API Integration
+- JSON Processing
+- Pandas Data Cleaning
+- SQLAlchemy
+- Modular Programming
+- Exception Handling
+- Logging
+- File Handling
+- Automation
+- ETL Development
+
+---
+# 📊 Power BI Skills Demonstrated
+- Data Modeling
+- DAX Measures
+- KPIs
+- Cards
+- Tables
+- Charts
+- Slicers
+- Drill-through
+- Dashboard Design
+- Interactive Filtering
+  
+---
+# 🧠 Key Learnings
+Through this project I learned:
+- How to build an end-to-end ETL pipeline.
+- How to consume live API data.
+- How to design a PostgreSQL data warehouse.
+- The difference between OLTP and OLAP structures.
+- How to model dimension and fact tables.
+- How to work with SQL window functions.
+- How to automate ETL pipelines.
+- How to troubleshoot Power BI data model issues.
+- How to integrate relational and NoSQL databases in a single project.
+- The importance of data modeling and relationship design in Business Intelligence.
+
+---
+# 🚀 Future Improvements
+- Deploy PostgreSQL on a cloud platform.
+- Use Apache Airflow for orchestration.
+- Containerize the application with Docker.
+- Deploy Power BI to the Power BI Service.
+- Implement Slowly Changing Dimensions (SCD).
+- Add incremental loading.
+- Add automated data quality validation.
+- Integrate CI/CD using GitHub Actions.
+
+---
+# 👨‍💻 Author
+Arfaz Shaikh
+
+Aspiring Data Analyst | Business Analyst | Data Engineer
+
+Skills :
+- SQL
+- Python
+- PostgreSQL
+- MongoDB
+- Power BI
+- Excel
+- ETL Pipelines
+- Data Warehousing
+- Data Visualization
 
 ---
 # 📂 Project Structure
@@ -392,3 +471,8 @@ Crypto-Analytics/
 ├── .env
 └── README.md
 ```
+⭐ If you found this project useful
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+It motivates me to continue building and sharing real-world Data Analytics and Data Engineering projects.
